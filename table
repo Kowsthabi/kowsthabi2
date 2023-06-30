@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>
+      <i>Restaurant</i>
+    </title>
+  </head>
+  <style>
+    table,th,td{
+      border:2px solid;
+      padding:2px;
+    }
+    </style>
+    </head>
+    <body>
+      <table style="height:50px;width:40px;">
+        <tr>
+          <th>food items</th>
+          <th>price</th>
+        </tr>
+      </table>
+    </body>
+  </style>>
+  </html>
